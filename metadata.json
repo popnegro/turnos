@@ -1,0 +1,6 @@
+{
+  "name": "AkiNeuro V2.1.2 — Sistema de Reservas & Material 3",
+  "description": "Sistema de reservas y turnos médicos con diseño Google Material 3, disponibilidad en Google Calendar, bloqueo temporal de slots, pagos con Mercado Pago y CRM multi-tenant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
